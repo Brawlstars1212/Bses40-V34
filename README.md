@@ -11,7 +11,7 @@ apk: wait a minute
 zip server: wait a minute
 
 
-based on [bsl-v41] (https://github.com/LkPrtctrd/BSL-V41)
+based on [bsl-v41](https://github.com/LkPrtctrd/BSL-V41)
 
 # how to play bses40-v34
 
