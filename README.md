@@ -8,7 +8,7 @@ apk: wait a minute
 
 
 
-zip server: wait a minute
+zip server: [click here](https://www.mediafire.com/file/efq5lbxi0ayrw9t/bses40.zip/file)
 
 
 based on [bsl-v41](https://github.com/LkPrtctrd/BSL-V41)
